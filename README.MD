@@ -13,3 +13,5 @@ O MandaTrends é um report que mandamos periodicamente para nossos clientes. Sel
 O código deve programado em HTML e ser responsivo (se adaptando a diferentes telas). Atenção: deve ser considerado todas as limitações existentes nos softwares de leitura de emails.
 
 ## Link para a visualização do projeto
+
+[Clique aqui para ver](https://salomaosilval.github.io/desafio-mandarin/)
